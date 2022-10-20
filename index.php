@@ -1,6 +1,5 @@
 <?php
 
-
 echo 'Pregunta 1'.'<br><br>';
 
 function primo($num) {
